@@ -10,5 +10,5 @@ export const environment = {
     measurementId: 'G-CJ6E9GT0RZ',
   },
   production: true,
-  URL: 'https://portfoliobackend-production-ae86.up.railway.app/' 
+  URL: 'integradorsantachita-production.up.railway.app' 
 };
