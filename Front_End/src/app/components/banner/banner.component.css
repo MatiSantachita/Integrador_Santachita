@@ -1,0 +1,33 @@
+.redondeo{
+    border-radius: 50%;
+  }
+  .text-center{
+    text-align: center;
+}
+div.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #449;
+  color: #fff;
+  padding: 15px;
+}
+div.noticia img.izquierda {
+  float: left;
+  margin-right: 15px;
+}
+div.reset {
+  clear: both;
+}
+.text-end{
+  text-align: end;
+}
+.container{
+  display:flex;
+  flex-direction: row;
+}
+.reset{
+  display:flex;
+}
+.titulo{
+  display:flex;
+}

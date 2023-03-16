@@ -1,0 +1,7 @@
+.formato{
+    background-color: rgba(23, 146, 44, 0.39);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 20px;
+}
